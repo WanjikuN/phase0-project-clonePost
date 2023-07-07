@@ -1,5 +1,5 @@
 body{
-    background: linear-gradient(#335093, #061e56);
+    background: linear-gradient( #151e56, #13182E);
     /* color: white; */
     
 
@@ -49,3 +49,15 @@ li{
 #hash{
     color: rgb(89, 89, 236);
 } 
+
+a{
+    text-decoration: none;
+    color: #335093;
+}
+/* a:visited{
+    color: purple;
+} */
+a:hover{
+    font-size: 20px;
+    color: aliceblue;
+}
