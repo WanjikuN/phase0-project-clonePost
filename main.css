@@ -1,11 +1,11 @@
 body{
-    background: linear-gradient( #151e56, #13182E);
+    background: linear-gradient( #52617e, #1c223d);
     /* color: white; */
     
 
 }
 #post1{
-    background-color: black;
+    background-color: #0c0e16;
     margin: 20%;
     padding: 20px;
     border: 1px solid rgba(222, 184, 135, 0.248);
